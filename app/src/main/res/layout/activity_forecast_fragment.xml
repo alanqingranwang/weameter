@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativelayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <TableRow>
+
+        <TextView
+            android:id="@+id/weekday0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <ImageView
+            android:id="@+id/image0"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="50dp" />
+
+        <TextView
+            android:id="@+id/forecastTempLow0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/forecastTempHigh0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+    </TableRow>
+
+    <TableRow android:layout_marginTop="36dp">
+
+        <TextView
+            android:id="@+id/weekday1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="50dp" />
+
+        <TextView
+            android:id="@+id/forecastTempLow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/forecastTempHigh1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+    </TableRow>
+
+    <TableRow android:layout_marginTop="36dp">
+
+        <TextView
+            android:id="@+id/weekday2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <ImageView
+            android:id="@+id/image2"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="50dp" />
+
+        <TextView
+            android:id="@+id/forecastTempLow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/forecastTempHigh2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+    </TableRow>
+
+    <TableRow android:layout_marginTop="36dp">
+
+        <TextView
+            android:id="@+id/weekday3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <ImageView
+            android:id="@+id/image3"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="50dp" />
+
+        <TextView
+            android:id="@+id/forecastTempLow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/forecastTempHigh3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+    </TableRow>
+
+    <TableRow android:layout_marginTop="36dp">
+
+        <TextView
+            android:id="@+id/weekday4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <ImageView
+            android:id="@+id/image4"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="50dp" />
+
+        <TextView
+            android:id="@+id/forecastTempLow4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/forecastTempHigh4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+    </TableRow>
+
+    <TableRow android:layout_marginTop="36dp">
+
+        <TextView
+            android:id="@+id/weekday5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <ImageView
+            android:id="@+id/image5"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="50dp" />
+
+        <TextView
+            android:id="@+id/forecastTempLow5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/forecastTempHigh5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+    </TableRow>
+
+    <TableRow android:layout_marginTop="36dp">
+
+        <TextView
+            android:id="@+id/weekday6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <ImageView
+            android:id="@+id/image6"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginLeft="50dp" />
+
+        <TextView
+            android:id="@+id/forecastTempLow6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+        <TextView
+            android:id="@+id/forecastTempHigh6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+
+    </TableRow>
+
+</TableLayout>

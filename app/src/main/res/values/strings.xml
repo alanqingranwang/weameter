@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<resources>
+
+    <string name="app_name">WeaMeter</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="menu_settings">Settings</string>
+
+    <string name="title_activity_show_error">ShowError</string>
+
+    <string name="title_activity_search">SearchActivity</string>
+
+    <string name="search_hint">Chicago, IL</string>
+
+    <string name="title_activity_locations">LocationsActivity</string>
+
+    <string name="title_activity_activity_one">ActivityOne</string>
+
+    <string name="title_activity_activity2">Activity2</string>
+
+    <string name="title_activity_result">ResultActivity</string>
+
+</resources>
